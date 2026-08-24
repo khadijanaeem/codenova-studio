@@ -16,7 +16,7 @@ export default function Home() {
       <CaseStudies />
       <Industries />
       <WhyUs />
-      <Testimonials />
+      {/*<Testimonials />  */}
       <Contact />
     </>
   )
