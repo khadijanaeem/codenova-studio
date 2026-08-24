@@ -4,7 +4,7 @@ import Clients from '../components/Clients.jsx'
 import CaseStudies from '../components/CaseStudies.jsx'
 import Industries from '../components/Industries.jsx'
 import WhyUs from '../components/WhyUs.jsx'
-import Testimonials from '../components/Testimonials.jsx'
+/*import Testimonials from '../components/Testimonials.jsx'*/
 import Contact from '../components/Contact.jsx'
 
 export default function Home() {
